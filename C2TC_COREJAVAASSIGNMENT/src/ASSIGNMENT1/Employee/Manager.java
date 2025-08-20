@@ -1,4 +1,4 @@
-package Employee;
+package ASSIGNMENT1.Employee;
 public class Manager extends Employee {
     private String department;
 

@@ -1,4 +1,4 @@
-package Employee;
+package ASSIGNMENT1.Employee;
 public class Employee {
 	private String name;
     private int employeeId;
